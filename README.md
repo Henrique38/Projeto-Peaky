@@ -33,7 +33,7 @@ O objetivo desse projeto foi desenvolver uma página utilizando apenas HTML, CSS
 
 ### ⚙ Desafios
 
- - Conseguir criar o slide
+ - Conseguir criar o carrossel
  - Deixar 100% responsivo
  - Permitir a navegação entre os slides
 
