@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de informação sobre a série PEAKY BLINDERS
+Página de informação sobre a série PEAKY BLINDERS
 
 ### ✈ Objetivo
 
@@ -41,3 +41,7 @@ O objetivo desse projeto foi desenvolver uma página utilizando apenas HTML, CSS
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+  <br>
+  
+   <p align="center"><img src="https://img.shields.io/badge/<Status>-<Finalizado>-<green>"><p>
