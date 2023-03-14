@@ -13,7 +13,7 @@
 
 <br>
 
--link para  a página:  https://henrique38.github.io/Projeto-Peaky/
+<p align="center">Link para  a página:  https://henrique38.github.io/Projeto-Peaky/<p>
 <br>
 
 ## 🚀 Tecnologias
